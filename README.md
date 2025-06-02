@@ -1,3 +1,4 @@
+usei ia chat gpt 
 nício do Jogo:
 
 Quando você iniciar o jogo, o personagem aparecerá no meio da tela, em um cenário verde (campo), com um céu azul e algumas montanhas ao fundo.
